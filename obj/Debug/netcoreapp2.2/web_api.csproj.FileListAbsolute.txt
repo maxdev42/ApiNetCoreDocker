@@ -1,0 +1,4 @@
+C:\Users\maxde\Projects\POC\POC-Docker-NetCore-Api\web_api\obj\Debug\netcoreapp2.2\web_api.AssemblyInfoInputs.cache
+C:\Users\maxde\Projects\POC\POC-Docker-NetCore-Api\web_api\obj\Debug\netcoreapp2.2\web_api.AssemblyInfo.cs
+C:\Users\maxde\Projects\POC\POC-Docker-NetCore-Api\web_api\obj\Debug\netcoreapp2.2\web_api.csproj.CoreCompileInputs.cache
+C:\Users\maxde\Projects\POC\POC-Docker-NetCore-Api\web_api\obj\Debug\netcoreapp2.2\web_api.csprojAssemblyReference.cache
